@@ -1010,7 +1010,7 @@
     width: 16px;
     height: 16px;
     background: #d50037;
-    left: 56%;
+    left: 57%;
     top: 0%;
     transform: translate(0%, 0%);
 }
@@ -2064,13 +2064,13 @@ display: none;
 }
 
 .footer .txtbox .box_02 {
-    font-size: 10px;
+    font-size: 9px;
     font-weight: 400;
     color: #e9e9e9;
     line-height: 24px;
 
     display: flex;
-    gap: 12px;
+    gap: 10px;
 }
 
 .footer .txtbox .box_03{
